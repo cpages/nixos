@@ -54,6 +54,7 @@
   ./security/rtkit.nix
   ./security/setuid-wrappers.nix
   ./security/sudo.nix
+  ./services/amqp/activemq/default.nix
   ./services/amqp/rabbitmq.nix
   ./services/audio/alsa.nix
   ./services/audio/fuppes.nix
@@ -172,6 +173,7 @@
   ./services/system/kerberos.nix
   ./services/system/nscd.nix
   ./services/system/uptimed.nix
+  ./services/torrent/deluge.nix
   ./services/ttys/gpm.nix
   ./services/ttys/agetty.nix
   ./services/web-servers/apache-httpd/default.nix
