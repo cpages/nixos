@@ -29,7 +29,7 @@ in
 
     environment.systemPackages = [ pkgs.weston ];
 
-    security.setuidPrograms = [ "weston" ];
+    security.setuidPrograms = [ "weston-launch" ];
 
   };
 
