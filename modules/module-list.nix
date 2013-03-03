@@ -176,6 +176,7 @@
   ./services/torrent/deluge.nix
   ./services/ttys/gpm.nix
   ./services/ttys/agetty.nix
+  ./services/wayland/wayland.nix
   ./services/web-servers/apache-httpd/default.nix
   ./services/web-servers/jboss/default.nix
   ./services/web-servers/tomcat.nix
